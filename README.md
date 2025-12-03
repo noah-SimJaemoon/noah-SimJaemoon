@@ -7,7 +7,7 @@ __＃ Library__  : ...
 
 ## HCI Researcher (2017 ~ 2022)
 ### Tool
-__＃ Prototyping :__ Figma, Photoshop, Illustrator, principle for mac
+__＃ Prototyping :__ Figma, Photoshop, Illustrator, Principle for mac
 
 __＃ Data-Collection :__ Eye-Traking, Driving Simulator
 
