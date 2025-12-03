@@ -1,11 +1,11 @@
-## Frontend Developer
+## Frontend Developer (2024 ~)
 __＃ Framework__  : ...
 
 __＃ Library__  : ...
 
 <br/>
 
-## HCI Researcher
+## HCI Researcher (2017 ~ 2022)
 ### Tool
 __＃ Prototyping :__ Figma, Photoshop, Illustrator, principle for mac
 
